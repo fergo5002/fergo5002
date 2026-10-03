@@ -6,9 +6,11 @@ Currently building [Tigh Sauna](https://tighsauna.com). Previously a founding en
 
 A few things I've built:
 
+- [Cinematic Film Kit](https://github.com/fergo5002/cinematic-film-kit) · Short films made with code, from picture and sound to render checks.
+- [Resource Queue](https://github.com/fergo5002/resource-queue) · A Windows job queue that learns what builds and tests cost.
 - [FergusOS](https://fergusoreilly.dev) · My website, with useful little tools and a hidden arcade. [Code](https://github.com/fergo5002/fergus-portfolio).
-- [Remand](https://github.com/georgelevins/Nybblers) · A team hackathon project finding product ideas in online discussions.
 - [Specter](https://github.com/cronneln/DaytonaGiveAGoHackathon) · A team hackathon project investigating npm package behaviour in cloud sandboxes.
+- [Remand](https://github.com/georgelevins/Nybblers) · A team hackathon project finding product ideas in online discussions.
 
 Otherwise: tennis, mountains or the sea.
 
