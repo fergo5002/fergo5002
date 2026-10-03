@@ -8,7 +8,7 @@ A few things I've built:
 
 - [FergusOS](https://fergusoreilly.dev) · My website, with useful little tools and a hidden arcade. [Code](https://github.com/fergo5002/fergus-portfolio).
 - [Remand](https://github.com/georgelevins/Nybblers) · A team hackathon project finding product ideas in online discussions.
-- [ContraBot](https://github.com/fergo5002/contraTradingBot) · A Python experiment trading against Reddit sentiment. Paper money only.
+- [Specter](https://github.com/cronneln/DaytonaGiveAGoHackathon) · A team hackathon project investigating npm package behaviour in cloud sandboxes.
 
 Otherwise: tennis, mountains or the sea.
 
