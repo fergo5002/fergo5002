@@ -7,7 +7,6 @@ Currently building [Tigh Sauna](https://tighsauna.com). Previously a founding en
 A few things I've built:
 
 - [FergusOS](https://fergusoreilly.dev) · My website, with useful little tools and a hidden arcade. [Code](https://github.com/fergo5002/fergus-portfolio).
-- [RLPong](https://github.com/fergo5002/RLPong) · Arcade Pong with boost shots, built in TypeScript and Canvas.
 - [Remand](https://github.com/georgelevins/Nybblers) · A team hackathon project finding product ideas in online discussions.
 - [ContraBot](https://github.com/fergo5002/contraTradingBot) · A Python experiment trading against Reddit sentiment. Paper money only.
 
