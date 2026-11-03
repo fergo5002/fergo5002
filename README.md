@@ -2,11 +2,11 @@
 
 ## Hi, I'm Fergus
 
-Engineer in Dublin. I keep putting myself in positions where I have to deliver something I've never delivered before. Half of what's below I didn't know how to build when I started it. The figuring out is the bit I like, even when it seems impossible.
+I am an engineer based in Dublin, working on a variety of projects, with a general love for most areas of engineering.
 
-Right now I'm a founding engineer on revolutionising how brands are financed. More on that when it's ready. Before that I co-founded [Tigh Sauna](https://tighsauna.com) and was a founding engineer at Loira AI. I study Computer Science and Business at Trinity in whatever time is left.
+Right now I'm a founding engineer at a startup on revolutionising how brands are financed. Before this I co-founded [Tigh Sauna](https://tighsauna.com) I study Computer Science and Business at Trinity (but taking a gap year).
 
-That's my website booting up there. [Go and turn it on](https://fergusoreilly.dev), there's an arcade behind the glass.
+That's my website booting up, take a look if you'd like [Go and turn it on](https://fergusoreilly.dev)
 
 **Things I've made**
 
@@ -14,13 +14,11 @@ That's my website booting up there. [Go and turn it on](https://fergusoreilly.de
 - [**voicesmith**](https://github.com/fergo5002/voicesmith): clone a voice on your own laptop, with the owner's permission, and let your AI agent talk in it. Everything it makes is watermarked.
 - [**Cinematic Film Kit**](https://github.com/fergo5002/cinematic-film-kit): short films made entirely in code. A coding agent does the editing, and the picture and sound get checked before you watch.
 - [**Resource Queue**](https://github.com/fergo5002/resource-queue): for when you've three agents, a dev server and a test suite going and the laptop starts making a noise. It learns what each job costs and only runs together what fits.
-- [**FergusOS**](https://github.com/fergo5002/fergus-portfolio): the site above. A CRT, a few useful little tools and whatnot, and three arcade cabinets.
+- [**FergusOS**](https://github.com/fergo5002/fergus-portfolio): the site above. A CRT, a few useful little tools and whatnot, and three arcade games.
 - [**Remand**](https://github.com/georgelevins/Nybblers): a hackathon build with a great team. It dug signal for startups out of Reddit conversations.
 
 Smaller stuff: [motion-gauge](https://github.com/fergo5002/motion-gauge) counts how much is moving on a web page, [RLPong](https://github.com/fergo5002/RLPong) is Pong with a boost meter, [Contra](https://github.com/fergo5002/contraTradingBot) was built to trade against r/wallstreetbets with paper money (it doesn't trade yet, and the README says why), and [Specter](https://github.com/cronneln/DaytonaGiveAGoHackathon) was another hackathon, watching what npm packages really do inside cloud sandboxes.
 
-Have a play with any of it.
-
-Otherwise: tennis, padel, mountains or the sea.
+Try them out and leave feedback!
 
 [fergusoreilly.dev](https://fergusoreilly.dev) · [LinkedIn](https://www.linkedin.com/in/patrickfergusoreilly/)
